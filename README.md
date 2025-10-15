@@ -1,6 +1,7 @@
-# Portafolio Profesional – Gissel Reyes
-
-Soy Gissel Reyes, analista de datos especializada en Machine Learning con formación en economía y sociología. Mi propósito profesional es transformar datos en evidencia que apoye la toma de decisiones estratégicas en el sector público y privado.
+# Hola 👋
+Soy Gissel Reyes Ingeniera Comercial en Economía USACH.
+Actualmente analista de datos especializada en Machine Learning con formación en economía y sociología. 
+Mi propósito profesional es transformar datos en evidencia que apoye la toma de decisiones estratégicas en el sector público y privado.
 
 ## Sobre mí
 
